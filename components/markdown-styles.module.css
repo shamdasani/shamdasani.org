@@ -1,0 +1,18 @@
+.markdown {
+  @apply text-lg leading-relaxed text-gray-900;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  @apply my-4;
+}
+
+.markdown h2 {
+  @apply text-3xl mt-6 mb-2 leading-snug font-bold text-gray-900;
+}
+
+.markdown h3 {
+  @apply text-2xl mt-8 mb-2 leading-snug font-bold text-gray-900;
+}

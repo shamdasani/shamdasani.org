@@ -1,0 +1,84 @@
+@tailwind base;
+
+/* Write your own custom base styles here */
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Write you own custom component styles here */
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
+
+.text-gradient {
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.date {
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  font-weight: bold;
+}
+.views {
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  font-weight: bold;
+}
+.stat {
+  text-align: center;
+  font-size: 1.5rem;
+  span {
+    font-weight: 600;
+  }
+}
+.small {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #626262;
+  margin-top: 0;
+}
+.inline {
+  display: flex;
+  justify-content: space-between;
+}
+.tc {
+  text-align: center;
+}
+
+.post a {
+  color: rgb(47, 128, 237);
+  border-bottom: 1px solid rgb(211, 211, 211);
+  transition: all 300ms ease 0s;
+}
+
+.post a:hover {
+  border-bottom: none;
+  opacity: 0.8;
+}
+
+.post h4 {
+  @apply font-bold;
+}
+
+.post {
+  @apply text-gray-900;
+}
+
+.post img {
+  @apply shadow-md max-w-sm mx-auto;
+}
+
+.post ul {
+ @apply list-disc list-inside;
+}
+
+.post li {
+  @apply mx-2;
+}
