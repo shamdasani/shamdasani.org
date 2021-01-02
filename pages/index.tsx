@@ -174,3 +174,4 @@ export const getStaticProps = async () => {
 // Projects page -- detailed links
 // Year in Review + Newsletter
 // Personal Workflow tools
+// Footer -- like this? Follow on Twitter + join newsletter ;)
