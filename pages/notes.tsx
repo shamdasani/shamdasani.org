@@ -12,7 +12,7 @@ function Notes() {
     content: ""
   });
 
-  const [saved, setSaved] = useState("");
+  const [saved, setSaved] = useState(0);
 
   useEffect(() => {
     let noteData = localStorage.getItem("note");
