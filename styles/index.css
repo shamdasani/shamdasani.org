@@ -76,9 +76,64 @@
 }
 
 .post ul {
- @apply list-disc list-inside;
+  @apply list-disc list-inside;
 }
 
 .post li {
+  @apply mx-2;
+}
+
+.line-break {
+  white-space: pre-wrap;
+}
+
+.markdown a {
+  color: rgb(47, 128, 237);
+  border-bottom: 1px solid rgb(211, 211, 211);
+  transition: all 300ms ease 0s;
+}
+
+.markdown a:hover {
+  border-bottom: none;
+  opacity: 0.8;
+}
+
+.markdown h1 {
+  @apply font-bold;
+  @apply text-3xl;
+  @apply text-gray-900;
+}
+
+.markdown h2 {
+  @apply font-bold;
+  @apply text-2xl;
+  @apply text-gray-900;
+}
+
+.markdown h3 {
+  @apply font-bold;
+  @apply text-xl;
+  @apply text-gray-900;
+}
+
+.markdown h4 {
+  @apply font-bold;
+  @apply text-xl;
+  @apply text-gray-900;
+}
+
+.markdown {
+  @apply text-gray-800;
+}
+
+.markdown img {
+  @apply shadow-md max-w-sm mx-auto;
+}
+
+.markdown ul {
+  @apply list-disc list-inside;
+}
+
+.markdown li {
   @apply mx-2;
 }

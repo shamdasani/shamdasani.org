@@ -79,7 +79,7 @@ const Index = ({ allPosts }: Props) => {
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
-                  href=""
+                  href="/projects"
                 >
                   {" "}
                   side-projects

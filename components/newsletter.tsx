@@ -17,7 +17,7 @@ const Newsletter = () => {
     <main>
       <div className="max-w-2xl">
         <div className="font-sans mx-auto py-1">
-        <p className="font-bold tracking-wide uppercase text-gray-700 mt-2">Newsletter</p>
+        <p className="font-bold tracking-widest uppercase text-gray-700 mt-2">Newsletter</p>
 
           <div className="sm:flex">
             <div className="sm:w-1/3 mr-6">
