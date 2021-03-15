@@ -16,9 +16,9 @@ function Notes() {
 
   useEffect(() => {
     let noteData = localStorage.getItem("note");
-    let noteObject = JSON.parse(noteData);
+    let noteObject = noteData && JSON.parse(noteData);
     let savedData = localStorage.getItem("saved");
-    let savedString = JSON.parse(savedData);
+    let savedString = savedData && JSON.parse(savedData);
     setNote(noteObject);
     setSaved(savedString);
   }, []);
