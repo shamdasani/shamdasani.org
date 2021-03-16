@@ -136,4 +136,9 @@
 
 .markdown li {
   @apply mx-2;
+  @apply my-1;
+}
+
+blockquote {
+  @apply border-l-4 border-blue-600 pl-2 font-bold text-2xl tracking-tight;
 }
