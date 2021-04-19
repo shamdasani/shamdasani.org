@@ -9,4 +9,4 @@ The other day, I [tweeted](https://twitter.com/samaysham/status/1367969101205934
 
 The best way to do this is probably by writing more about the things I care about: my personal growth, technology, business, education, and more. 
 
-From today onwards, I'll be writing nearly everyday, and I'll share the highlights on my [newsletter](https://shamdasani.substack.com/) and [Twitter](https://twitter.com/samaysham). If you find my thoughts interesting, let's chat!
+From today onwards, I'll be writing more often, and I'll share the highlights on my [newsletter](https://shamdasani.substack.com/) and [Twitter](https://twitter.com/samaysham). If you find my thoughts interesting, let's chat!
