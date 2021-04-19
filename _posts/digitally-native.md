@@ -14,12 +14,12 @@ In the physical world, paper exists. We write on paper, share it, and store it. 
 
 In the physical world, we have in-person meetings. They're great, but harder to schedule, take more time, and are not always feasible. A hybrid solution is Zoom or video conferencing software. The digital native solution is virtual reality — being able to simulate an in-person experience without actually being in-person.
 
-In the physical world, we carry cash. Cash can be counterfeited, lost, and stolen. A hybrid solution is credit and debit cards, which allows money to move through the internet's payment processing infrastructure. However, the digital-native solution is [Bitcoin](https://bitcoin.org/en/) and [Ethereum](https://ethereum.org/en/). Immutable, secure, & decentralized.  
+In the physical world, we carry cash. Cash can be counterfeited, lost, and stolen. A hybrid solution are credit and debit cards, which allow money to move through the internet's payment processing infrastructure. The digital-native solution is [Bitcoin](https://bitcoin.org/en/) and [Ethereum](https://ethereum.org/en/). Immutable, secure, & decentralized.  
 
 
 ### Where are the rest? 
 
-This is super interesting. Documents, meetings, and money are all great examples. However, what's next?
+What's next?
 
 - What is the digital native solution to **education**?
 
@@ -33,7 +33,7 @@ Is there a digitally-native solution (back to the education idea) that will allo
 
 - What is the digital native solution to **healthcare**?
 
-We've seen hybrid approaches (e.g. Oscar Health + other insurance providers in similar verticals), but what's the true digital native solution? Can healthcare become decentralized, global (source medication from anywhere), and more transparent (decreased costs)?
+We've seen hybrid approaches (e.g. Oscar Health + other insurance providers in similar verticals), but what's the true digital native solution? Can healthcare become decentralized, global, and more transparent (decreased costs)?
 
 - What is the digital native solution to **X**?
 
