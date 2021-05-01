@@ -96,12 +96,12 @@ The only real way to grow an audience is to start sharing. Share anything. Share
 
 I'm still actively figuring out what makes me interesting, but that doesn't mean I give up on creating content. This post right here is a piece of content!
 
-And on more thing: don't make it a task. Create content only when you want to. Only when you have an idea. But do it fast and don't lose momentum.
+However, don't make it a task. Create content only when you want to. Only when you have an idea. But do it fast and don't lose momentum.
 
 ### 3. Engage & interact
 
-This last step is really simple. Once you follow interesting people and share content yourself, you're ready to start interacting. Reply to tweets with your thoughts or shoot a quick DM to someone with a question or note — everyone loves to meet new people and I've personally made a lot of friends doing so!
+This last step is really simple. Once you're consuming content and starting to get a feel for the platform, reply to tweets with your thoughts or shoot a quick DM to someone with a question or note — everyone loves to meet new people and I've personally made a lot of friends doing so!
 
 —
 
-**A note on balance —** try to not get addicted! Twitter is a lot of fun, but like everything, the returns diminish with respect to time spent on the app. On most days, I probably spend no more than an ~hour, but I'm trying to cut that down to maybe 30 minutes. Hope this helped!
+**A note on balance —** try to not get addicted! Twitter is a lot of fun, but like everything, the returns diminish with respect to time spent on the app. On most days, I probably spend no more than an ~hour, but I'm trying to cut that down to maybe 30 minutes. 
