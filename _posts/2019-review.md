@@ -45,9 +45,6 @@ Here are some metrics over the past year:
 #### Symposium Presentation
 
 12th grade presentation at my cultural school: From the "self" to the "SELF"
-
-![Symposium](/assets/blog/2019-review/symposium.JPG)
-
 ### February 2019
 
 #### Ended shoveling business
@@ -92,8 +89,6 @@ Participated in my cultural school's mime show on Mahatma Gandhi.
 
 #### Prom
 
-![Prom](/assets/blog/2019-review/prom.png)
-
 ### May 2019
 
 #### Parents threw me a suprise birthday / grad party (May 17th, 2019)
@@ -107,8 +102,6 @@ Participated in my cultural school's mime show on Mahatma Gandhi.
 ### June 2019
 
 #### Graduated cultural school
-
-![VVGrad](/assets/blog/2019-review/vv-grad.png)
 
 #### Intern @ DataCamp in NYC
 

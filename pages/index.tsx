@@ -31,29 +31,9 @@ const Index = ({ allPosts }: Props) => {
             </h1>
 
             <div>
-              <p className="text-2xl text-gray-800 tracking-tight my-4">
-                I'm an always-learning builder and creator.
-              </p>
-              <p className="text-xl text-gray-800">
-                I'm a second-year student studying computer science at the
-                University of Michigan. Currently, I spend my time building{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="https://enlight.nyc"
-                >
-                  Enlight
-                </a>
-                , the network to learn to code by building projects. I'm also a
-                venture partner at{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="https://contrarycap.com/michigan"
-                >
-                  Contrary Capital
-                </a>
-                . This summer, I'll be interning at{" "}
+              <p className="text-xl text-gray-800 my-4">
+                I'm a third-year student studying computer science at the
+                University of Michigan. Currently, I'm working as an engineer at{" "}
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
@@ -61,7 +41,26 @@ const Index = ({ allPosts }: Props) => {
                 >
                   Ramp
                 </a>
-                .
+                , the corporate card and spend management platform designed to
+                help businesses spend less. In my free time, I spend my time
+                building{" "}
+                <a
+                  target="_blank"
+                  className="underline hover:opacity-75"
+                  href="https://enlight.nyc"
+                >
+                  Enlight
+                </a>
+                , the network to learn to code by building projects. I also work
+                with{" "}
+                <a
+                  target="_blank"
+                  className="underline hover:opacity-75"
+                  href="https://contrarycap.com/michigan"
+                >
+                  Contrary Capital
+                </a>{" "}
+                as a venture partner.
               </p>
               <p className="text-xl text-gray-800 my-2">
                 My interest in technology goes back to middle school when I used
@@ -158,17 +157,15 @@ export const getStaticProps = async () => {
   const allPosts = getAllPosts(["title", "date", "slug", "category", "image"]);
 
   return {
-    props: { allPosts }
+    props: { allPosts },
   };
 };
-
 
 // Technical
 // Componentize the pages
 // SEO
 // Integrate Next Image component
-// Add views to posts 
-
+// Add views to posts
 
 // Product
 // Projects page -- detailed links
