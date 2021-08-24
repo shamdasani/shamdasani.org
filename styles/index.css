@@ -77,7 +77,7 @@
 
 @media only screen and (min-width: 600px) {
   .post img {
-    @apply max-w-lg;
+    @apply max-w-2xl;
   }
 }
 

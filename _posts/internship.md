@@ -18,7 +18,7 @@ About a year later, Veeral updated me that he graduated school and was going to 
 
 ![Text](/assets/blog/internship/text.png)
 
-I was honestly quite surprised. Why in the world would you want to go against [Brex](https://brex.com)? They had a two-year head start, were highly capitalized, and well on their way to breaking into the corporate card market. Turns out, there's always room at the table.
+I was honestly quite surprised. Why in the world would you want to go against [Brex](https://brex.com)? They had a two-year head start, were highly capitalized, and well on their way to breaking into the corporate card market. Turns out, there's always room at the table. 
 
 The competitor that Veeral joined is known as [Ramp](https://ramp.com).
 
@@ -74,7 +74,7 @@ I came to Ramp with two main goals:
 - To become a better full-stack engineer
 - To understand how a high-growth startup operates and scales
 
-Over the past three months, I definitely made progress on both. Here are some of my observations:
+Over the past three months, I definitely made progress on both. Here are some observations:
 
 **Fintech is a fascinating space with lots of opportunity**
 
@@ -107,15 +107,15 @@ None of Ramp's success, however, would have been possible without its solid foun
 
 **Full-stack engineering**
 
-Full-stack engineering is a lot of fun, mainly because I'm able to cut-out any black-boxes and understand how a feature is built from 0 to 1.
+Full-stack engineering is a lot of fun, mainly because I'm able to cut-out any black-boxes and understand how a feature is built from 0 to 1. There's a saying that if you are still happy with the code you wrote 6 months ago, you aren't learning enough as an engineer. That was definitely true for me. In fact, the pace of learning at Ramp has been the most it has ever been anywhere else I've ever worked. 
 
-There's a saying that if you are still happy with the code you wrote 6 months ago, you aren't learning enough as an engineer. That was definitely true for me. In fact, the pace of learning at Ramp has been the most it has ever been anywhere else I've ever worked.
-
-Over the summer, I've learned the right tradeoff between [speed](https://jsomers.net/blog/speed-matters) and quality. We like to use the term [product velocity](https://geoffcharles.medium.com/how-to-increase-product-velocity-8d0979a67c22).
+Over the summer, I've learned the right tradeoff between [speed](https://jsomers.net/blog/speed-matters) and quality when it comes to building product. To express this idea, we like to use the term [product velocity](https://geoffcharles.medium.com/how-to-increase-product-velocity-8d0979a67c22). Understanding this tradeoff has allowed Ramp to scale so quickly from an engineering and product perspective.
 
 ## Highlights
 
-It was a fun summer. I spent all of June in July living in New York City with a few friends in the East Village. As everything was re-opening, the city definitely felt electric — and it was great to feel the NYC energy every morning once again.
+It was a fun summer. I spent all of June and July living in New York City with a few friends in the East Village. As everything was re-opening, the city definitely felt electric — and it was great to feel the NYC energy every morning once again.
+
+![Team](/assets/blog/internship/team.jpg)
 
 ### Office fun
 
