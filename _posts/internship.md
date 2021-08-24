@@ -12,15 +12,13 @@ image: /assets/blog/internship/header.png
 
 In May 2018, I attended Apple's developer's conference ([WWDC](https://developer.apple.com/wwdc)) as a [student scholar](https://www.youtube.com/watch?v=b3Huqtw2log). For years, I had followed Apple keynotes and installed the [latest iOS betas](https://www.youtube.com/watch?v=H3mtgIvBElM); now, I had the chance to experience it in person — and meet so many incredibly talented people while I was at it.
 
-During a lunch at the conference, I happened to sit next to one of these people: [Veeral](https://veeralpatel.com), a current Apple intern on the Shortcuts team. We kept in touch.
+During a lunch at the conference, I happened to sit next to one of these people: [Veeral](https://veeralpatel.com), a current Apple intern.
 
-About a year later, Veeral updated me that he graduated school and was going to be joining a startup based in NYC as an early engineer.
-
-The startup that Veeral joined is known as [Ramp](https://ramp.com).
+About a year later, Veeral updated me that he graduated school and was going to be joining a startup based in NYC as an early engineer. The startup that Veeral joined is known as [Ramp](https://ramp.com).
 
 ![Time is money](/assets/blog/internship/time-is-money.png)
 
-Ramp is the financial automation platform built to help businesses save money. Its mission is to increase the lifespan of businesses. In less than two years, Ramp has become a unicorn and has scaled to over a billion dollars in annualized transaction volume. Just today, Ramp announced its [$300M Series C at a $3.9B valuation](https://ramp.com/blog/ramp-finance-automation-platform).
+Ramp is the financial automation platform built to help businesses save money. Its mission is to increase the lifespan of businesses. In less than two years, Ramp has become a unicorn and has scaled to over a billion dollars in annualized transaction volume. Yesterday, Ramp announced its [$300M Series C at a $3.9B valuation](https://ramp.com/blog/ramp-finance-automation-platform).
 
 That's what I love about startups — you can never be too crazy. With the right idea and the right team, and there's nothing you can't do.
 
