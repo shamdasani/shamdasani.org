@@ -42,8 +42,10 @@ const Index = ({ allPosts }: Props) => {
                   Ramp
                 </a>
                 , the corporate card and spend management platform designed to
-                help businesses spend less. In my free time, I spend my time
-                building{" "}
+                help businesses spend less.{" "}
+              </p>
+              <p className="text-xl text-gray-800 my-4">
+                In my free time, I spend my time building{" "}
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
