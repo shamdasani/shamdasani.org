@@ -18,7 +18,7 @@ About a year later, Veeral updated me that he graduated school and was going to 
 
 ![Time is money](/assets/blog/internship/time-is-money.png)
 
-Ramp is the financial automation platform built to help businesses save money. Its mission is to increase the lifespan of businesses. In less than two years, Ramp has become a unicorn and has scaled to over a billion dollars in annualized transaction volume. Yesterday, Ramp announced its [$300M Series C at a $3.9B valuation](https://ramp.com/blog/ramp-finance-automation-platform).
+Ramp is the financial automation platform built to help businesses save money. Its mission is to increase the lifespan of businesses. In less than two years, Ramp has become a unicorn and has scaled to over a billion dollars in annualized transaction volume. Today, Ramp announced its [$300M Series C at a $3.9B valuation](https://ramp.com/blog/ramp-finance-automation-platform).
 
 That's what I love about startups — you can never be too crazy. With the right idea and the right team, and there's nothing you can't do.
 
@@ -81,7 +81,7 @@ Take a look at your credit card statement and you'll see an outdated UI and cryp
 The difference is just the UI itself is stark — where big banks and traditional financial institutions fail to innovate, opportunity is left on the table for startups to seize. Add on features that solve real pain-points, and you've got a winning product.
 
 While I may be comparing Ramp to a consumer credit-card statement,
-the past few months have taught me that businesses also face very similar problems. Current tools in spend management, expense reimbursements, and accounting just don't cut it.
+the past few months have taught me that businesses also face very similar problems. Current tools in spend management, bill pay, expense reporting, etc. just don't cut it!
 
 Ramp is building a 10x better experience than the previous generation of finance tools. Fintech moves fast and is competitive, but I wouldn't want it any other way.
 
@@ -91,19 +91,15 @@ Ramp's slogan — grow without fear — is the perfect phrase to describe itsel
 
 Learning how the company scales revenue, talent, and product is what made this summer so special.
 
-![Volume](/assets/blog/internship/volume.jpg)
-
 Part of this is also the company's emphasis on transparency and trust among employees. Documents, data, and files are shared across the company so we can all learn and contribute.
 
 None of Ramp's success, however, would have been possible without its solid foundation and ownership-driven culture from the start.
-
-![Values](/assets/blog/internship/values.png)
 
 **Full-stack engineering**
 
 Full-stack engineering is a lot of fun, mainly because I'm able to cut-out any black-boxes and understand how a feature is built from 0 to 1. There's a saying that if you are still happy with the code you wrote 6 months ago, you aren't learning enough as an engineer. That was definitely true for me. In fact, the pace of learning at Ramp has been the most it has ever been anywhere else I've ever worked. 
 
-Over the summer, I've learned the right tradeoff between [speed](https://jsomers.net/blog/speed-matters) and quality when it comes to building product. To express this idea, we like to use the term [product velocity](https://geoffcharles.medium.com/how-to-increase-product-velocity-8d0979a67c22). Understanding this tradeoff has allowed Ramp to scale so quickly from an engineering and product perspective.
+Over the summer, I've learned the right tradeoff between [speed](https://jsomers.net/blog/speed-matters) and quality when it comes to building product. To express this idea, we like to use the term [product velocity](https://geoffcharles.medium.com/how-to-increase-product-velocity-8d0979a67c22). I definitely think that the collective understanding of this tradeoff among the team has allowed Ramp to scale so quickly from an engineering and product perspective.
 
 ## Highlights
 
