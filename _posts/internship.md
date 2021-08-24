@@ -12,9 +12,11 @@ image: /assets/blog/internship/header.png
 
 In May 2018, I attended Apple's developer's conference ([WWDC](https://developer.apple.com/wwdc)) as a [student scholar](https://www.youtube.com/watch?v=b3Huqtw2log). For years, I had followed Apple keynotes and installed the [latest iOS betas](https://www.youtube.com/watch?v=H3mtgIvBElM); now, I had the chance to experience it in person — and meet so many incredibly talented people while I was at it.
 
-During a lunch at the conference, I happened to sit next to one of these people: [Veeral](https://veeralpatel.com), a current Apple intern.
+During a lunch at the conference, I happened to sit next to one of these people: [Veeral](https://veeralpatel.com), a current Apple intern. We kept in touch.
 
-About a year later, Veeral updated me that he graduated school and was going to be joining a startup based in NYC as an early engineer. The startup that Veeral joined is known as [Ramp](https://ramp.com).
+About a year later, Veeral updated me that he graduated school and was going to be joining a corporate card startup based in NYC as an early engineer.
+
+The startup that Veeral joined is known as [Ramp](https://ramp.com).
 
 ![Time is money](/assets/blog/internship/time-is-money.png)
 
