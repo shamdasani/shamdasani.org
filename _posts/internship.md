@@ -16,11 +16,7 @@ During a lunch at the conference, I happened to sit next to one of these people:
 
 About a year later, Veeral updated me that he graduated school and was going to be joining a startup based in NYC as an early engineer.
 
-![Text](/assets/blog/internship/text.png)
-
-I was honestly quite surprised. Why in the world would you want to go against [Brex](https://brex.com)? They had a two-year head start, were highly capitalized, and well on their way to breaking into the corporate card market. Turns out, there's always room at the table. 
-
-The competitor that Veeral joined is known as [Ramp](https://ramp.com).
+The startup that Veeral joined is known as [Ramp](https://ramp.com).
 
 ![Time is money](/assets/blog/internship/time-is-money.png)
 
