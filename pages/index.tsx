@@ -65,7 +65,7 @@ const Index = ({ allPosts }: Props) => {
                 as a venture partner.
               </p>
               <p className="text-xl text-gray-800 my-2">
-                My interest in technology goes back to middle school when I used
+                My interest in technology goes back to middle school where I used
                 to create video reviews on{" "}
                 <a
                   target="_blank"

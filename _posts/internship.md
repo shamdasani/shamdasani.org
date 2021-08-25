@@ -14,17 +14,19 @@ In May 2018, I attended Apple's developer's conference ([WWDC](https://developer
 
 During a lunch at the conference, I happened to sit next to one of these people: [Veeral](https://veeralpatel.com), a current Apple intern. We kept in touch.
 
-About a year later, Veeral updated me that he graduated school and was going to be joining a corporate card startup based in NYC as an early engineer.
+About a year later, Veeral updated me that he graduated school and was going to be joining a corporate card startup based in NYC as an early engineer. From what I knew about the space, there were a large incumbents (like American Express) and a few disruptors (like [Brex](https://brex.com), which became a unicorn around that time). Regardless, starting any sort of finance service — especially when giving out credit to clients — is a big bet. 
 
 The startup that Veeral joined is known as [Ramp](https://ramp.com).
 
 ![Time is money](/assets/blog/internship/time-is-money.png)
 
-Ramp is the financial automation platform built to help businesses save money. Its mission is to increase the lifespan of businesses. In less than two years, Ramp has become a unicorn and has scaled to over a billion dollars in annualized transaction volume. Today, Ramp announced its [$300M Series C at a $3.9B valuation](https://ramp.com/blog/ramp-finance-automation-platform).
+Ramp is the financial automation platform built to help businesses save money. Its mission is to increase the lifespan of businesses. In less than two years, Ramp has scaled to over a billion dollars in annualized transaction volume. Yesterday, Ramp announced its [$300M Series C at a $3.9B valuation](https://ramp.com/blog/ramp-finance-automation-platform).
 
 That's what I love about startups — you can never be too crazy. With the right idea and the right team, and there's nothing you can't do.
 
 I had kept tabs on Ramp's product and once they launched the following year, I knew I was interested in learning more. After meeting everyone on the team through the interview process, it was clear that there was no other place I'd want to spend my summer more than Ramp.
+
+---
 
 ## Upon reflection, this past summer was perhaps my most rewarding, high-impact, and exciting one yet.
 
@@ -63,6 +65,8 @@ With [Filtering and Renaming GL](https://ramp.com/blog/ramp-rewind-q2-2021), Ram
 - UX improvements and refactors
 - Production engineering: resolving customer escalations and bugs, improving endpoint and application performance
 
+---
+
 ## Learnings
 
 I came to Ramp with two main goals:
@@ -99,9 +103,11 @@ None of Ramp's success, however, would have been possible without its solid foun
 
 **Full-stack engineering**
 
-Full-stack engineering is a lot of fun, mainly because I'm able to cut-out any black-boxes and understand how a feature is built from 0 to 1. There's a saying that if you are still happy with the code you wrote 6 months ago, you aren't learning enough as an engineer. That was definitely true for me. In fact, the pace of learning at Ramp has been the most it has ever been anywhere else I've ever worked. 
+Full-stack engineering is a lot of fun, mainly because I'm able to cut-out any black-boxes and understand how a feature is built from 0 to 1. There's a saying that if you are still happy with the code you wrote 6 months ago, you aren't learning fast enough. That is definitely true for me! In fact, the pace of learning at Ramp greater than anywhere else I've ever worked.
 
 Over the summer, I've learned the right tradeoff between [speed](https://jsomers.net/blog/speed-matters) and quality when it comes to building product. To express this idea, we like to use the term [product velocity](https://geoffcharles.medium.com/how-to-increase-product-velocity-8d0979a67c22). I definitely think that the collective understanding of this tradeoff among the team has allowed Ramp to scale so quickly from an engineering and product perspective.
+
+---
 
 ## Highlights
 
@@ -111,8 +117,7 @@ It was a fun summer. I spent all of June and July living in New York City with a
 
 ### Office fun
 
-I went to the office in Union Square nearly every single day over the summer. Whether it was grabbing lunch with co-workers or breaking twitter with viral tweets, it was a blast. 
-
+I went to the office in Union Square nearly every single day over the summer. Whether it was grabbing lunch with co-workers or breaking twitter with viral tweets, it was a blast.
 
 <div class="flex justify-center">
 <div>
@@ -122,6 +127,7 @@ I went to the office in Union Square nearly every single day over the summer. Wh
 </div>
 </div>
 
+---
 
 ## What's next?
 
@@ -131,4 +137,4 @@ Working at a startup was something special. If you aren't at one, go join one! O
 
 —
 
-*Special thanks to [Veeral](https://veeralpatel.com) and [Jared](https://www.linkedin.com/in/jared-wasserman/) for their mentorship over the past few months.*
+_Special thanks to [Veeral](https://veeralpatel.com) and [Jared](https://www.linkedin.com/in/jared-wasserman/) for their mentorship over the past few months._
