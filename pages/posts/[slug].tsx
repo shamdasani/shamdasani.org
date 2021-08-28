@@ -39,7 +39,10 @@ const Post = ({ post, preview }: Props) => {
                 {post.image && (
                   <>
                     <meta property="og:image" content={post.image} />
-                    <meta name="twitter:image" content={post.image} />
+                    <meta
+                      name="twitter:image"
+                      content={`https://shamdasani.org/${post.image}`}
+                    />
                   </>
                 )}
               </Head>
