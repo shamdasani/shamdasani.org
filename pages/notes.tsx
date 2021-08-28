@@ -9,7 +9,7 @@ import Head from "next/head";
 function Notes() {
   const [note, setNote] = useState({
     title: "",
-    content: ""
+    content: "",
   });
 
   const [saved, setSaved] = useState(0);
@@ -28,7 +28,7 @@ function Notes() {
     localStorage.setItem("saved", JSON.stringify(saved));
   }, [note, saved]);
 
-  const handleInput = e => {
+  const handleInput = (e) => {
     const name = e.target.name;
     const value = e.target.value;
     console.log(value);
@@ -42,6 +42,7 @@ function Notes() {
       <Head>
         <title>Notes | Samay Shamdasani</title>
         <meta property="og:image" content="/logo.png" />
+        <meta name="twitter:image" content="/logo.png" />
       </Head>
       <Container>
         <Intro />

@@ -32,8 +32,15 @@ const Post = ({ post, preview }: Props) => {
               <Head>
                 <title>{post.title} | Samay Shamdasani</title>
                 <meta name="description" content={post.description} />
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:creator" content="@samaysham" />
+                <meta name="twitter:title" content={post.title} />
+                <meta name="twitter:description" content={post.description} />
                 {post.image && (
-                  <meta property="og:image" content={post.image} />
+                  <>
+                    <meta property="og:image" content={post.image} />
+                    <meta name="twitter:image" content={post.image} />
+                  </>
                 )}
               </Head>
               <Intro />
@@ -69,7 +76,7 @@ export async function getStaticProps({ params }: Params) {
     "description",
     "content",
     "image",
-    "category"
+    "category",
   ]);
   const content = await markdownToHtml(post.content || "");
 
@@ -77,9 +84,9 @@ export async function getStaticProps({ params }: Params) {
     props: {
       post: {
         ...post,
-        content
-      }
-    }
+        content,
+      },
+    },
   };
 }
 
@@ -87,13 +94,13 @@ export async function getStaticPaths() {
   const posts = getAllPosts(["slug"]);
 
   return {
-    paths: posts.map(posts => {
+    paths: posts.map((posts) => {
       return {
         params: {
-          slug: posts.slug
-        }
+          slug: posts.slug,
+        },
       };
     }),
-    fallback: false
+    fallback: false,
   };
 }
