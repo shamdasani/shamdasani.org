@@ -1,6 +1,6 @@
 ---
 title: "My Summer at Ramp"
-date: "2021-08-24"
+date: "2021-08-27"
 description: Three months of learning and building at New York City's fastest-growing startup.
 category: post
 image: /assets/blog/internship/header.png
