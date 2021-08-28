@@ -72,7 +72,13 @@
 }
 
 .post img {
-  @apply shadow-md max-w-sm mx-auto;
+  @apply shadow-md max-w-xs mx-auto;
+}
+
+@media only screen and (min-width: 600px) {
+  .post img {
+    @apply max-w-2xl;
+  }
 }
 
 .post ul {
@@ -127,7 +133,7 @@
 }
 
 .markdown img {
-  @apply shadow-md max-w-sm mx-auto;
+  @apply shadow-md max-w-md mx-auto;
 }
 
 .markdown ul {
