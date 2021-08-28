@@ -41,7 +41,7 @@ const Post = ({ post, preview }: Props) => {
                     <meta property="og:image" content={post.image} />
                     <meta
                       name="twitter:image"
-                      content={`https://shamdasani.org/${post.image}`}
+                      content={`https://shamdasani.org${post.image}`}
                     />
                   </>
                 )}
