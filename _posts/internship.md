@@ -22,7 +22,7 @@ The startup that Veeral joined is known as [Ramp](https://ramp.com).
 
 Ramp is the financial automation platform built to help businesses save money. Its mission is to increase the lifespan of businesses. In less than two years, Ramp has scaled to over a billion dollars in annualized transaction volume. Just this week, Ramp announced its [$300M Series C at a $3.9B valuation](https://ramp.com/blog/ramp-finance-automation-platform).
 
-That's what I love about startups — you can never be too crazy. With the right idea and the right team, and there's nothing you can't do.
+That's what I love about startups — you can never be too crazy. With the right idea and the right team, there's nothing you can't do.
 
 I had kept tabs on Ramp's product and once they launched the following year, I knew I was interested in learning more. After meeting everyone on the team through the interview process, it was clear that there was no other place I'd want to spend my summer more than Ramp.
 
