@@ -23,17 +23,25 @@ const Projects = () => {
             <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
+              href="https://v1michigan.com"
+            >
+              V1
+            </a>
+          </div>
+          <div className="my-2 text-gray-900">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
               href="https://enlight.nyc"
             >
               Enlight
             </a>
           </div>
-          —
           <div className="my-2">
             <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
-              href="https://makespp.com"
+              href="https://2019.makespp.com"
             >
               MakeSPP
             </a>
@@ -120,7 +128,7 @@ const Projects = () => {
             </a>
           </div>
           <div className="my-2">
-          <a
+            <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
               href="https://www.producthunt.com/posts/enlight-3"
@@ -132,7 +140,7 @@ const Projects = () => {
             <a className="text-xl text-gray-900">Siimply Tech</a>
           </div>
           <div className="my-2">
-          <a
+            <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
               href="https://youtube.com/samayshamdasani"

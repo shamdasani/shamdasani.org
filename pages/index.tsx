@@ -32,8 +32,9 @@ const Index = ({ allPosts }: Props) => {
 
             <div>
               <p className="text-xl text-gray-800 my-4">
-                I'm a third-year student studying computer science at the
-                University of Michigan. Currently, I'm working as an engineer at{" "}
+                I'm a fourth-year student studying computer science at the
+                University of Michigan. Currently, I'm working as a software
+                engineer at{" "}
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
@@ -45,7 +46,15 @@ const Index = ({ allPosts }: Props) => {
                 help businesses spend less.{" "}
               </p>
               <p className="text-xl text-gray-800 my-4">
-                In my free time, I spend my time building{" "}
+                In the past, I have spent my time building{" "}
+                <a
+                  target="_blank"
+                  className="underline hover:opacity-75"
+                  href="https://v1michigan.com"
+                >
+                  V1
+                </a>
+                , the community for ambitious student builders, and&nbsp;
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
@@ -53,8 +62,8 @@ const Index = ({ allPosts }: Props) => {
                 >
                   Enlight
                 </a>
-                , the network to learn to code by building projects. I also work
-                with{" "}
+                , the network to learn to code by building projects. I also
+                worked with{" "}
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
@@ -65,8 +74,8 @@ const Index = ({ allPosts }: Props) => {
                 as a venture partner.
               </p>
               <p className="text-xl text-gray-800 my-2">
-                My interest in technology goes back to middle school where I used
-                to create video reviews on{" "}
+                My interest in technology goes back to middle school where I
+                used to create video reviews on{" "}
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
@@ -94,14 +103,14 @@ const Index = ({ allPosts }: Props) => {
                   className="underline hover:opacity-75"
                   href="https://datacamp.com"
                 >
-                  DataCamp
+                  DataCamp,
                 </a>{" "}
-                , working on engineering efforts focused on conversion and
+                working on engineering efforts focused on conversion and
                 platform growth. I also started{" "}
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
-                  href="https://makespp.com"
+                  href="https://2019.makespp.com"
                 >
                   MakeSPP
                 </a>
