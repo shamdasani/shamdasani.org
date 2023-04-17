@@ -32,8 +32,7 @@ const Index = ({ allPosts }: Props) => {
 
             <div>
               <p className="text-xl text-gray-800 my-4">
-                I'm a fourth-year student studying computer science at the
-                University of Michigan. Currently, I'm working as a software
+                I'm a software
                 engineer at{" "}
                 <a
                   target="_blank"
@@ -54,7 +53,7 @@ const Index = ({ allPosts }: Props) => {
                 >
                   V1
                 </a>
-                , the community for ambitious student builders, and&nbsp;
+                , the community for ambitious student builders at the University of Michigan, and&nbsp;
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
