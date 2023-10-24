@@ -32,8 +32,7 @@ const Index = ({ allPosts }: Props) => {
 
             <div>
               <p className="text-xl text-gray-800 my-4">
-                I'm a software
-                engineer at{" "}
+                I'm a software engineer at{" "}
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
@@ -53,7 +52,8 @@ const Index = ({ allPosts }: Props) => {
                 >
                   V1
                 </a>
-                , the community for ambitious student builders at the University of Michigan, and&nbsp;
+                , the community for ambitious student builders at the University
+                of Michigan, and&nbsp;
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
@@ -61,16 +61,7 @@ const Index = ({ allPosts }: Props) => {
                 >
                   Enlight
                 </a>
-                , the network to learn to code by building projects. I also
-                worked with{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="https://contrarycap.com/michigan"
-                >
-                  Contrary Capital
-                </a>{" "}
-                as a venture partner.
+                , the network to learn to code by building projects.{" "}
               </p>
               <p className="text-xl text-gray-800 my-2">
                 My interest in technology goes back to middle school where I
@@ -83,8 +74,7 @@ const Index = ({ allPosts }: Props) => {
                   YouTube
                 </a>
                 . Soon after, I found myself learning to code and creating apps
-                and websites for fun. I used my skills to improve the
-                communities that I'm a part of through a handful of{" "}
+                and websites for fun. This led to me building a handful of{" "}
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
@@ -113,14 +103,7 @@ const Index = ({ allPosts }: Props) => {
                 >
                   MakeSPP
                 </a>
-                , NJ's largest HS hackathon. In 2018, I was an Apple{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href=""
-                >
-                  WWDC
-                </a>{" "}
+                , NJ's largest HS hackathon. In 2018, I was an Apple WWDC
                 scholar.
               </p>
               <p className="text-xl text-gray-800 my-2">

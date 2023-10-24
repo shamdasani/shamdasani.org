@@ -12,15 +12,15 @@ const Intro = () => {
       </a>
       <div className="text-center md:text-left">
         <Link href="/writing">
-          <a className="hover:text-blue-600 duration-200 transition-colors mr-4 text-xl text-gray-900">
+          <span className="hover:text-blue-600 duration-200 transition-colors mr-4 text-xl text-gray-900">
             writing
-          </a>
+          </span>
         </Link>
 
         <Link href="/projects">
-          <a className="hover:text-blue-600 duration-200 transition-colors mr-4 text-xl text-gray-900">
+          <span className="hover:text-blue-600 duration-200 transition-colors mr-4 text-xl text-gray-900">
             projects
-          </a>
+          </span>
         </Link>
         {/* <a
           href=""

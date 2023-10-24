@@ -14,13 +14,13 @@ const Posts = ({ posts }: Props) => {
         .map((post) => (
           <div key={post.slug} className="py-1">
             <Link as={`/posts/${post.slug}`} href="/posts/[slug]">
-              <a className="text-xl">
+              <span className="text-xl">
                 {" "}
                 <span className="hover:underline"> {post.title}</span>
                 <span className="italic text-xs p-2">
                   <DateFormatter dateString={post.date} />
                 </span>
-              </a>
+              </span>
             </Link>
           </div>
 
