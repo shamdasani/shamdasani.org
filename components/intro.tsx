@@ -16,10 +16,14 @@ const Intro = () => {
             writing
           </span>
         </Link>
-
         <Link href="/projects">
           <span className="hover:text-blue-600 duration-200 transition-colors mr-4 text-xl text-gray-900">
             projects
+          </span>
+        </Link>
+        <Link href="/investments">
+          <span className="hover:text-blue-600 duration-200 transition-colors mr-4 text-xl text-gray-900">
+            investments
           </span>
         </Link>
         {/* <a

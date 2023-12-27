@@ -45,19 +45,12 @@ Here are some metrics over the past year:
 #### Symposium Presentation
 
 12th grade presentation at my cultural school: From the "self" to the "SELF"
+
 ### February 2019
 
 #### Ended shoveling business
 
 Since I was in the 7th grade, I've been shoveling driveways with friends — earning anywhere from a couple hundred to a thousand every season. It's how I bought my drone, computer, and camera! I won't be able to continue as I'll be in college every winter for the next four years.
-
-### March 2019
-
-#### Mom Prom
-
-I'd say that this event is fairly unique to my all-boys Catholic high school — prom, but with our moms!
-
-![Mom Prom](/assets/blog/2019-review/momprom.JPG)
 
 ### April 2019
 

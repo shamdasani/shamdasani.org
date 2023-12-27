@@ -10,7 +10,7 @@ const Projects = () => {
     <>
       <Layout>
         <Head>
-          <title>Projects | Samay Shamdasani</title>
+          <title>Projects</title>
         </Head>
         <Container>
           <Intro />
@@ -19,14 +19,14 @@ const Projects = () => {
           </h1>
           <div className="my-2 text-gray-900">
             {/* image, description, tags (side-proejct, hackathon, etc) */}
-
             <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
               href="https://v1michigan.com"
             >
               V1
-            </a>
+            </a>{" "}
+            - community for student builders
           </div>
           <div className="my-2 text-gray-900">
             <a
@@ -35,7 +35,8 @@ const Projects = () => {
               href="https://enlight.nyc"
             >
               Enlight
-            </a>
+            </a>{" "}
+            - network to learn to code by building projects
           </div>
           <div className="my-2">
             <a
@@ -44,7 +45,18 @@ const Projects = () => {
               href="https://2019.makespp.com"
             >
               MakeSPP
-            </a>
+            </a>{" "}
+            - largest HS hackathon in NJ area
+          </div>
+          <div className="my-2">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://syessa.com"
+            >
+              Syessa
+            </a>{" "}
+            - DTC eCommerce store
           </div>
           <div className="my-2">
             <a
@@ -53,7 +65,8 @@ const Projects = () => {
               href="https://www.issacaption.com/"
             >
               Issa Caption
-            </a>
+            </a>{" "}
+            - find the perfect caption for your Instagram posts
           </div>
           <div className="my-2">
             <a
@@ -62,7 +75,8 @@ const Projects = () => {
               href="https://github.com/ReflectUs/Reflect"
             >
               Reflect
-            </a>
+            </a>{" "}
+            - reflect on social engagement
           </div>
           <div className="my-2">
             <a
@@ -71,7 +85,8 @@ const Projects = () => {
               href="https://devpost.com/software/blink-9o2iln"
             >
               Blink
-            </a>
+            </a>{" "}
+            - communication for locked-in patients
           </div>
           <div className="my-2">
             <a
@@ -81,6 +96,7 @@ const Projects = () => {
             >
               Tick Tock Inc.
             </a>{" "}
+            - b2b eCommerce store
           </div>
           <div className="my-2">
             <a
@@ -90,6 +106,7 @@ const Projects = () => {
             >
               Food Drive Counter
             </a>
+            - tracker for community food drive
           </div>
           <div className="my-2">
             <a
@@ -98,7 +115,8 @@ const Projects = () => {
               href="https://github.com/shamdasani/SwiftFrameworks"
             >
               Swift Frameworks (WWDC 18){" "}
-            </a>
+            </a>{" "}
+            — WWDC scholarship submission
           </div>
           <div className="my-2">
             <a
@@ -107,7 +125,8 @@ const Projects = () => {
               href="https://github.com/shamdasani/peters"
             >
               Peters
-            </a>
+            </a>{" "}
+            - app for my high school
           </div>
           <div className="my-2">
             <a
@@ -117,6 +136,7 @@ const Projects = () => {
             >
               SafeFront
             </a>
+            - next-gen 911 response system
           </div>
           <div className="my-2">
             <a
@@ -126,6 +146,7 @@ const Projects = () => {
             >
               Twext
             </a>
+            - early hackathon project; search tweets
           </div>
           <div className="my-2">
             <a
@@ -134,10 +155,12 @@ const Projects = () => {
               href="https://www.producthunt.com/posts/enlight-3"
             >
               Enlight 1.0
-            </a>
+            </a>{" "}
+            - project tutorials; my first time launching something
           </div>
           <div className="my-2">
-            <a className="text-xl text-gray-900">Siimply Tech</a>
+            <a className="text-xl text-gray-900">Siimply Tech (blog)</a> - tech
+            news blog
           </div>
           <div className="my-2">
             <a
@@ -145,11 +168,13 @@ const Projects = () => {
               className="underline hover:opacity-75 text-xl"
               href="https://youtube.com/samayshamdasani"
             >
-              YouTube
-            </a>
+              YouTube channel
+            </a>{" "}
+            - tech reviews and vlogs
           </div>
           <div className="my-2">
-            <a className="text-xl text-gray-900">Shoveling Business</a>
+            <a className="text-xl text-gray-900">Shoveling business</a> -
+            bootstrapped enough $$$ to buy my first laptop
           </div>
         </Container>
       </Layout>

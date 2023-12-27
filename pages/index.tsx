@@ -31,7 +31,7 @@ const Index = ({ allPosts }: Props) => {
             </h1>
 
             <div>
-              <p className="text-xl text-gray-800 my-4">
+              <p className="text-lg text-gray-800 mt-4 mb-2">
                 I'm a software engineer at{" "}
                 <a
                   target="_blank"
@@ -40,10 +40,9 @@ const Index = ({ allPosts }: Props) => {
                 >
                   Ramp
                 </a>
-                , the corporate card and spend management platform designed to
-                help businesses spend less.{" "}
+                .{" "}
               </p>
-              <p className="text-xl text-gray-800 my-4">
+              <p className="text-lg text-gray-800 my-2">
                 In the past, I have spent my time building{" "}
                 <a
                   target="_blank"
@@ -63,7 +62,7 @@ const Index = ({ allPosts }: Props) => {
                 </a>
                 , the network to learn to code by building projects.{" "}
               </p>
-              <p className="text-xl text-gray-800 my-2">
+              {/* <p className="text-lg text-gray-800 my-2">
                 My interest in technology goes back to middle school where I
                 used to create video reviews on{" "}
                 <a
@@ -85,7 +84,7 @@ const Index = ({ allPosts }: Props) => {
                 </a>
                 .
               </p>
-              <p className="text-xl text-gray-800 my-2">
+              <p className="text-lg text-gray-800 my-2">
                 Previously, I've interned at{" "}
                 <a
                   target="_blank"
@@ -105,33 +104,15 @@ const Index = ({ allPosts }: Props) => {
                 </a>
                 , NJ's largest HS hackathon. In 2018, I was an Apple WWDC
                 scholar.
+              </p> */}
+              <p className="text-lg text-gray-800 my-2">
+                I am incredibly impact-driven and passionate about building for
+                a better tomorrow.
               </p>
-              <p className="text-xl text-gray-800 my-2">
-                I'm incredibly impact-driven and passionate about building for a
-                better tomorrow.
+              <p className="text-md text-gray-600 my-4">
+                samayshamdasani [at] gmail [dot] com
               </p>
               ——
-              <p className="text-xl text-gray-800 my-2">
-                If you're interested in my thoughts on technology, business, the
-                future, and everything in between (including life updates!),
-                subscribe to my newsletter below.
-              </p>
-              <Newsletter />
-              <h1 className="text-2xl font-bold text-gray-900 tracking-tight mt-8">
-                Get in touch
-              </h1>
-              <p className="text-xl text-gray-800 my-2">
-                I'm most active on{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="https://twitter.com/samaysham"
-                >
-                  Twitter
-                </a>
-                . My email is my first name @ shamdasani.org — my DMs and inbox
-                are always open.
-              </p>
               <h1 className="text-2xl font-bold text-gray-900 tracking-tight mt-6">
                 Writing
               </h1>

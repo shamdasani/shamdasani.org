@@ -15,7 +15,7 @@ const Index = ({ allPosts }: Props) => {
     <>
       <Layout>
         <Head>
-          <title>Writing | Samay Shamdasani</title>
+          <title>Writing</title>
         </Head>
         <Container>
           <Intro />
@@ -41,10 +41,10 @@ export const getStaticProps = async () => {
     "slug",
     "author",
     "coverImage",
-    "excerpt"
+    "excerpt",
   ]);
 
   return {
-    props: { allPosts }
+    props: { allPosts },
   };
 };
