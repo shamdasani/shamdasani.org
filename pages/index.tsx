@@ -109,11 +109,11 @@ const Index = ({ allPosts }: Props) => {
                 I am incredibly impact-driven and passionate about building for
                 a better tomorrow.
               </p>
-              <p className="text-md text-gray-600 my-4">
+              <p className="text-md text-gray-600 mt-2">
                 samayshamdasani [at] gmail [dot] com
               </p>
               ——
-              <h1 className="text-2xl font-bold text-gray-900 tracking-tight mt-6">
+              <h1 className="text-2xl font-bold text-gray-900 tracking-tight my-6">
                 Writing
               </h1>
               {allPosts.length > 0 && <Posts posts={allPosts} />}

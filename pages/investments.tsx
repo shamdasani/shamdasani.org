@@ -50,9 +50,9 @@ const Projects = () => {
           </div>
           <p className="text-sm text-gray-600 italic mt-4">
             My favorite part of being in the technology industry is meeting so
-            many smart people working on solving ambitious problems. I've been
-            lucky enough to invest in a few of them and support them where I can
-            (product, engineering, hiring, etc).
+            many smart and ambitious people. I've been lucky enough to invest in
+            a few of them and support them where I can (product, engineering,
+            hiring, etc).
           </p>
           <p className="text-sm text-gray-600 italic my-2">
             If you're working on something interesting, please reach out.
