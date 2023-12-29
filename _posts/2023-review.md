@@ -48,9 +48,9 @@ In August, I traveled to India (Mumbai, Nasik, Pune, Jaipur, Udaipur) with famil
 
 In September, I moved to New York City.
 
-At the last minute, I jumped in and helped pull off running a fake restaurant ([Mehran’s Steak House](https://www.nytimes.com/2023/09/25/dining/nyc-best-fake-steakhouse.html))[^7]. That was by far one of the more crazier things I've been a part of. Massive respect to [Mehran](https://twitter.com/mehran__jalali) and [Riley](https://twitter.com/rtwlz) for making it happen and thank you for letting me help out!
+At the last minute, I jumped in and helped pull off running a fake restaurant ([Mehran’s Steak House](https://www.nytimes.com/2023/09/25/dining/nyc-best-fake-steakhouse.html))[^7]. That was by far one of the more crazier things I've been a part of. Massive respect to [Mehran](https://twitter.com/mehran__jalali) and [Riley](https://twitter.com/rtwlz) for making it happen and thanks to them for letting me help out!
 
-In October, I flew to Budapest, Hungary in October for the [Stretch](https://stretchcon.com/2023) conference where I [spoke](https://www.youtube.com/watch?v=FnkIMY7DM7o&list=PLcTa2e7_ENN-jaHtBTEXRPKNuBjMXm_xb) about engineering velocity. A few weeks after, in November, I went back to Ann Arbor to represent Ramp at [MHacks](https://www.mhacks.org/).
+In October, I flew to Budapest, Hungary for the [Stretch](https://stretchcon.com/2023) conference where I [spoke](https://www.youtube.com/watch?v=FnkIMY7DM7o&list=PLcTa2e7_ENN-jaHtBTEXRPKNuBjMXm_xb) about engineering velocity. A few weeks after, in November, I went back to Ann Arbor to represent Ramp at [MHacks](https://www.mhacks.org/).
 
 The final few weeks of the year were spent enjoying New York (runs, bike rides, concerts), meeting new people, and thinking deeply about my longer-term goals and how I want to get there.
 
