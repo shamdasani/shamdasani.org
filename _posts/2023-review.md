@@ -1,6 +1,6 @@
 ---
 title: "2023: Year in Review"
-date: "2023-12-31"
+date: "2023-12-30"
 description: The best year of my life (yet)
 category: post
 image:
@@ -26,7 +26,7 @@ February was also packed with travel. Austin for a weekend with the [Contrary](h
 
 Shortly after, SVB [blew up](https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank#:~:text=On%20March%2010%2C%202023%2C%20Silicon,2023%20in%20the%20United%20States.) and I was spending a lot of time on Twitter. I helped launch a quick [program](https://ramp.com/blog/supporting-business-banking-needs) for Ramp customers to get introductions to other reputable banking partners that weekend.
 
-During this time, I also launched the [largest change to Ramp’s core product](https://twitter.com/samaysham/status/1643652753338540037). Over the several months leading up to this release, [Jason](https://www.linkedin.com/in/jasonscharff/) and I were heads down building a core layer of abstraction above physical and virtual cards—which later unlocked multiple features for Ramp moving upmarket into the enterprise ([spend limits](https://support.ramp.com/hc/en-us/articles/10881975647763-Card-Limits-and-Spend-Programs), [multi-currency limits](https://support.ramp.com/hc/en-us/articles/17748112010899-Multi-Currency-Limits-and-Programs#:~:text=Multi%2Dcurrency%20allows%20your%20team,to%20mentally%20convert%20from%20USD.))—and allowed us to win customers like [Shopify](https://techcrunch.com/2023/08/01/ramp-expands-into-procurement-lands-shopify-as-a-customer/).
+During this time, I also launched one of the [largest changes](https://twitter.com/samaysham/status/1643652753338540037) to Ramp’s core product. Over several months leading up to this release, [Jason](https://www.linkedin.com/in/jasonscharff/) and I were heads down building a core layer of abstraction above physical and virtual cards—which later unlocked multiple features for Ramp moving upmarket into the enterprise ([spend limits](https://support.ramp.com/hc/en-us/articles/10881975647763-Card-Limits-and-Spend-Programs), [multi-currency limits](https://support.ramp.com/hc/en-us/articles/17748112010899-Multi-Currency-Limits-and-Programs#:~:text=Multi%2Dcurrency%20allows%20your%20team,to%20mentally%20convert%20from%20USD.))—and allowed us to win customers like [Shopify](https://techcrunch.com/2023/08/01/ramp-expands-into-procurement-lands-shopify-as-a-customer/).
 
 <div class="flex items-center justify-center">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Introducing flexible spend limits from <a href="https://twitter.com/tryramp?ref_src=twsrc%5Etfw">@tryramp</a><br><br>We’ve built a first-class experience to control employee spend across cards and out-of-pocket expenses at scale. <a href="https://t.co/bWo8OnrO1r">pic.twitter.com/bWo8OnrO1r</a></p>&mdash; samay (@samaysham) <a href="https://twitter.com/samaysham/status/1643652753338540037?ref_src=twsrc%5Etfw">April 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
