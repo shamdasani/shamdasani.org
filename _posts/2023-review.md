@@ -36,29 +36,29 @@ Life in Ann Arbor between my trips was fun—the weeks were mostly spent working
 
 ![grad](/assets/blog/2023-review/grad.JPG)
 
-Over the summer, I worked on multiple new projects at Ramp. A lot of the features I helped work on over this time ended up [shipping](https://ramp.com/blog/frictionless-expense-management-2024?utm_source=linkedin)[^4] recently: [Expense Intelligence](https://ramp.com/intelligence) (AI-powered policy enforcement) with [Felix](https://www.linkedin.com/in/~fe/) and smart routing (AI-powered spend limit routing) with [Jinyi](https://www.linkedin.com/in/jin-yi-li/) and [Danny](https://www.linkedin.com/in/zhang-danny/).
+Over the summer, I worked on multiple new projects at Ramp. A lot of the features I helped work on over this time ended up [shipping](https://ramp.com/blog/frictionless-expense-management-2024?utm_source=linkedin) recently: [Expense Intelligence](https://ramp.com/intelligence) (AI-powered policy enforcement) with [Felix](https://www.linkedin.com/in/~fe/) and smart routing (AI-powered spend limit routing) with [Jinyi](https://www.linkedin.com/in/jin-yi-li/) and [Danny](https://www.linkedin.com/in/zhang-danny/).
 
 ![smart-routing](/assets/blog/2023-review/smart-routing.gif)
 
-In July, I spent some time in San Francisco with my sister. It was my first time properly exploring SF—biked the Golden Gate, [hiked](https://www.strava.com/activities/9414430522) through the Marin Headlands, and more. That city never fails to energize me. I also rode in a self-driving Waymo[^5] for the first time; so optimistic for the future.
+In July, I spent some time in San Francisco with my sister. It was my first time properly exploring SF—biked the Golden Gate, [hiked](https://www.strava.com/activities/9414430522) through the Marin Headlands, and more. That city never fails to energize me. I also rode in a self-driving Waymo[^4] for the first time; so optimistic for the future.
 
-At the end of the summer, I traveled to India (Mumbai, Nasik, Pune, Jaipur, Udaipur) with family. It’s been 11 years since I last visited and it was so good to get some refreshed [perspective](https://twitter.com/samaysham/status/1691146693272850432). We also traveled to Dubai[^6] after and indulged in all of its luxury before heading back home.
+At the end of the summer, I traveled to India (Mumbai, Nasik, Pune, Jaipur, Udaipur) with family. It’s been 11 years since I last visited and it was so good to get some refreshed [perspective](https://twitter.com/samaysham/status/1691146693272850432). We also traveled to Dubai[^5] after and indulged in all of its luxury before heading back home.
 
 ![india](/assets/blog/2023-review/india.png)
 
 In September, I moved to New York City. My roommates and I threw a [housewarming party](https://partiful.com/e/WI3Q8FbQ5ff2rojqYeeq) that ended up bringing together 60+ of our friends. That was a fun night.
 
-At the last minute, I jumped in and helped pull off running a fake restaurant ([Mehran’s Steak House](https://www.nytimes.com/2023/09/25/dining/nyc-best-fake-steakhouse.html))[^7]. That was by far one of the crazier things I've been a part of. Massive respect to [Mehran](https://twitter.com/mehran__jalali) and [Riley](https://twitter.com/rtwlz) for making it happen.
+At the last minute, I jumped in and helped pull off running a fake restaurant ([Mehran’s Steak House](https://www.nytimes.com/2023/09/25/dining/nyc-best-fake-steakhouse.html))[^6]. That was by far one of the crazier things I've been a part of. Massive respect to [Mehran](https://twitter.com/mehran__jalali) and [Riley](https://twitter.com/rtwlz) for making it happen.
 
-In October, I flew to Budapest, Hungary[^8] for the [Stretch](https://stretchcon.com/2023) conference where I [spoke](https://www.youtube.com/watch?v=FnkIMY7DM7o&list=PLcTa2e7_ENN-jaHtBTEXRPKNuBjMXm_xb) about engineering velocity. I also represented Ramp at [MHacks](<](https://www.mhacks.org/)>) in Ann Arbor later in November.
+In October, I flew to Budapest, Hungary[^7] for the [Stretch](https://stretchcon.com/2023) conference where I [spoke](https://www.youtube.com/watch?v=FnkIMY7DM7o&list=PLcTa2e7_ENN-jaHtBTEXRPKNuBjMXm_xb) about engineering velocity. I also represented Ramp at [MHacks](<](https://www.mhacks.org/)>) in Ann Arbor later in November.
 
 The final few weeks of the year were spent enjoying New York (runs, bike rides, concerts), meeting new people, and thinking deeply about my longer-term goals and how I want to get there.
 
 ---
 
-If this year's theme was exploration (travel, learning, building), 2024 will be a **return to focus**. I'm eager to spend time learning and figuring out what to focus on and then move fast[^9] on those priorities.
+If this year's theme was exploration (travel, learning, building), 2024 will be a **return to focus**. I'm eager to spend time learning and figuring out what to focus on and then move fast[^8] on those priorities.
 
-In short, 2023 was my best year yet[^10]. Thank you to everyone—my family, friends, mentors, peers, coworkers—for such a great year.
+In short, 2023 was my best year yet[^9]. Thank you to everyone—my family, friends, mentors, peers, coworkers—for such a great year.
 
 Here's to the next!
 
@@ -69,10 +69,9 @@ Here's to the next!
 [^1]: [1] I finished classes in December 2022 and received my diploma shortly after. However, I decided to stick around Ann Arbor and walk at commencement with my friends in April.
 [^2]: [2] [Chamonix](https://en.wikipedia.org/wiki/Chamonix) was the site of the first winter olympics in 1924. Truly a quintessential ski town. One thing that surprised me was how affordable it was to ski in Europe compared to the United States. Lift tickets and rentals for two days cost me less than $200 USD.
 [^3]: [3] Every local (and I mean literally every local) in Costa Rica greeted us with "Pura Vida"—we couldn't tell if they truly believed it or if everyone was all in on promoting it for the sake of driving tourism.
-[^4]: [4] I recently became a manager (and tech lead) on the core spend management product. I've been doing a bit less IC work and focusing more on enabling others to grow and make an impact.
-[^5]: [5] The Waymo ride felt super natural. As the stop light turned yellow, the car accelerated to cross before it turned red. Human-level intuition. Thank you [Varun](https://varunshenoy.com/) for giving me a ride. I'm very jealous of your Waymo access.
-[^6]: [6] Dubai almost seemed too good to be true. Almost manufactured. It's the definition of luxury, especially seen through it's resorts (we stayed by the Palm) and malls.
-[^7]: [7] Some more press: [TikTok](https://www.tiktok.com/@nytcooking/video/7282887766612987178?lang=en), [NY Post](https://nypost.com/2023/09/25/nycs-fine-dining-elite-pranked-by-gen-zers-fake-steakhouse/), [The Guardian](https://www.theguardian.com/us-news/2023/sep/26/mehrans-steak-house-new-york-opening)
-[^8]: [8] I stayed in Budapest for two days after the conference to explore the city. It was my first time solo traveling. If you ever find yourself in Budapest, I reccomend checking out the [Szechenyi Baths](https://szechenyibath.com/) and [Szimpla Kert](https://en.wikipedia.org/wiki/Szimpla_Kert) (my favorite bar I've ever visited).
-[^9]: [9] _"It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter."_ - Sam Altman. When I do figure out what to focus on, it's mandatory to move [fast](https://patrickcollison.com/fast). [Speed matters](https://jsomers.net/blog/speed-matters).
-[^10]: [10] I often hear people reminisce about a past year (or set of years) as their absolute best: "college was the best four years of my life". Don't get me wrong. I absolutely loved my college experience, but I do not expect it to be the best four years of my life. I would like my life to be an [exponential curve](https://blog.samaltman.com/how-to-be-successful). More learning, more growth, more life. Each year better than the last.
+[^4]: [4] The Waymo ride felt super natural. As the stop light turned yellow, the car accelerated to cross before it turned red. Human-level intuition. Thank you [Varun](https://varunshenoy.com/) for giving me a ride. I'm very jealous of your Waymo access.
+[^5]: [5] Dubai almost seemed too good to be true. Almost manufactured. It's the definition of luxury, especially seen through it's resorts (we stayed by the Palm) and malls.
+[^6]: [6] Some more press: [TikTok](https://www.tiktok.com/@nytcooking/video/7282887766612987178?lang=en), [NY Post](https://nypost.com/2023/09/25/nycs-fine-dining-elite-pranked-by-gen-zers-fake-steakhouse/), [The Guardian](https://www.theguardian.com/us-news/2023/sep/26/mehrans-steak-house-new-york-opening)
+[^7]: [7] I stayed in Budapest for two days after the conference to explore the city. It was my first time solo traveling. If you ever find yourself in Budapest, I reccomend checking out the [Szechenyi Baths](https://szechenyibath.com/) and [Szimpla Kert](https://en.wikipedia.org/wiki/Szimpla_Kert) (my favorite bar I've ever visited).
+[^8]: [8] _"It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter."_ - Sam Altman. When I do figure out what to focus on, it's mandatory to move [fast](https://patrickcollison.com/fast). [Speed matters](https://jsomers.net/blog/speed-matters).
+[^9]: [9] I often hear people reminisce about a past year (or set of years) as their absolute best: "college was the best four years of my life". Don't get me wrong. I absolutely loved my college experience, but I do not expect it to be the best four years of my life. I would like my life to be an [exponential curve](https://blog.samaltman.com/how-to-be-successful). More learning, more growth, more life. Each year better than the last.
