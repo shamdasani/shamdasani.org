@@ -17,7 +17,16 @@ const Projects = () => {
           <h1 className="text-2xl font-bold text-gray-900 tracking-tight mt-6">
             Investments
           </h1>
-
+          <div className="my-2 text-gray-900">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://getcobblestone.com/"
+            >
+              Shade
+            </a>{" "}
+            - AI-powered asset explorer (2021)
+          </div>
           <div className="my-2 text-gray-900">
             <a
               target="_blank"
@@ -26,7 +35,7 @@ const Projects = () => {
             >
               Cobblestone
             </a>{" "}
-            - real estate leasing platform
+            - real estate leasing platform (2022)
           </div>
           <div className="my-2 text-gray-900">
             <a
@@ -36,7 +45,7 @@ const Projects = () => {
             >
               Link Mobile
             </a>{" "}
-            - connecting providers+health systems to patients
+            - connecting providers+health systems to patients (2023)
           </div>
           <div className="my-2 text-gray-900">
             <a
@@ -46,7 +55,27 @@ const Projects = () => {
             >
               Silna Health
             </a>{" "}
-            - benefits and prior authorization automation
+            - benefits and prior authorization automation (2023)
+          </div>
+          <div className="my-2 text-gray-900">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://rivet.tax/"
+            >
+              Rivet
+            </a>{" "}
+            - corporate & personal tax prep firm (2024)
+          </div>
+          <div className="my-2 text-gray-900">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://rivet.tax/"
+            >
+              MCard
+            </a>{" "}
+            - earn rewards on mortgage payments (2024)
           </div>
           <p className="text-sm text-gray-600 italic mt-4">
             My favorite part of being in the technology industry is meeting so

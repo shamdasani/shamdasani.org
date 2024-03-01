@@ -26,7 +26,7 @@ const Projects = () => {
             >
               V1
             </a>{" "}
-            - community for student builders
+            - community for student builders (2021, 2022)
           </div>
           <div className="my-2 text-gray-900">
             <a
@@ -36,17 +36,7 @@ const Projects = () => {
             >
               Enlight
             </a>{" "}
-            - network to learn to code by building projects
-          </div>
-          <div className="my-2">
-            <a
-              target="_blank"
-              className="underline hover:opacity-75 text-xl"
-              href="https://2019.makespp.com"
-            >
-              MakeSPP
-            </a>{" "}
-            - largest HS hackathon in NJ area
+            - network to learn to code by building projects (2020)
           </div>
           <div className="my-2">
             <a
@@ -56,17 +46,7 @@ const Projects = () => {
             >
               Syessa
             </a>{" "}
-            - DTC eCommerce store
-          </div>
-          <div className="my-2">
-            <a
-              target="_blank"
-              className="underline hover:opacity-75 text-xl"
-              href="https://www.issacaption.com/"
-            >
-              Issa Caption
-            </a>{" "}
-            - find the perfect caption for your Instagram posts
+            - DTC eCommerce store (2020)
           </div>
           <div className="my-2">
             <a
@@ -76,17 +56,7 @@ const Projects = () => {
             >
               Reflect
             </a>{" "}
-            - reflect on social engagement
-          </div>
-          <div className="my-2">
-            <a
-              target="_blank"
-              className="underline hover:opacity-75 text-xl"
-              href="https://devpost.com/software/blink-9o2iln"
-            >
-              Blink
-            </a>{" "}
-            - communication for locked-in patients
+            - reflect on social engagement (2019)
           </div>
           <div className="my-2">
             <a
@@ -96,7 +66,17 @@ const Projects = () => {
             >
               Tick Tock Inc.
             </a>{" "}
-            - b2b eCommerce store
+            - b2b eCommerce store (2019)
+          </div>
+          <div className="my-2">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://2019.makespp.com"
+            >
+              MakeSPP
+            </a>{" "}
+            - largest HS hackathon in NJ area (2018, 2019)
           </div>
           <div className="my-2">
             <a
@@ -106,7 +86,17 @@ const Projects = () => {
             >
               Food Drive Counter
             </a>
-            - tracker for community food drive
+            - tracker for community food drive (2018)
+          </div>
+          <div className="my-2">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://www.issacaption.com/"
+            >
+              Issa Caption
+            </a>{" "}
+            - find the perfect caption for your Instagram posts (2018)
           </div>
           <div className="my-2">
             <a
@@ -116,7 +106,7 @@ const Projects = () => {
             >
               Swift Frameworks (WWDC 18){" "}
             </a>{" "}
-            — WWDC scholarship submission
+            — WWDC scholarship submission (2018)
           </div>
           <div className="my-2">
             <a
@@ -126,7 +116,7 @@ const Projects = () => {
             >
               Peters
             </a>{" "}
-            - app for my high school
+            - app for my high school (2018)
           </div>
           <div className="my-2">
             <a
@@ -135,18 +125,18 @@ const Projects = () => {
               href="https://devpost.com/software/safefront"
             >
               SafeFront
-            </a>
-            - next-gen 911 response system
+            </a>{" "}
+            - next-gen 911 response system (2018)
           </div>
           <div className="my-2">
             <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
-              href="https://devpost.com/software/twext-5kmngj"
+              href="https://devpost.com/software/blink-9o2iln"
             >
-              Twext
-            </a>
-            - early hackathon project; search tweets
+              Blink
+            </a>{" "}
+            - communication for locked-in patients (2017)
           </div>
           <div className="my-2">
             <a
@@ -156,11 +146,25 @@ const Projects = () => {
             >
               Enlight 1.0
             </a>{" "}
-            - project tutorials; my first time launching something
+            - project tutorials; my first time launching something (2017)
+          </div>
+          <div className="my-2">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://devpost.com/software/twext-5kmngj"
+            >
+              Twext
+            </a>{" "}
+            - early hackathon project; search tweets (2016)
           </div>
           <div className="my-2">
             <a className="text-xl text-gray-900">Siimply Tech (blog)</a> - tech
-            news blog
+            news blog (2013)
+          </div>
+          <div className="my-2">
+            <a className="text-xl text-gray-900">Shoveling business</a> -
+            bootstrapped enough $$$ to buy my first laptop (2013)
           </div>
           <div className="my-2">
             <a
@@ -170,11 +174,7 @@ const Projects = () => {
             >
               YouTube channel
             </a>{" "}
-            - tech reviews and vlogs
-          </div>
-          <div className="my-2">
-            <a className="text-xl text-gray-900">Shoveling business</a> -
-            bootstrapped enough $$$ to buy my first laptop
+            - tech reviews and vlogs (2012)
           </div>
         </Container>
       </Layout>
