@@ -71,11 +71,21 @@ const Projects = () => {
             <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
-              href="https://rivet.tax/"
+              href="https://www.getmcard.com/"
             >
               MCard
             </a>{" "}
             - earn rewards on mortgage payments (2024)
+          </div>
+          <div className="my-2 text-gray-900">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://www.cognition-labs.com/"
+            >
+              Cognition
+            </a>{" "}
+            - AI software engineer (2024)
           </div>
           <p className="text-sm text-gray-600 italic mt-4">
             My favorite part of being in the technology industry is meeting so
