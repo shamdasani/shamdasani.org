@@ -87,6 +87,26 @@ const Projects = () => {
             </a>{" "}
             - AI software engineer (2024)
           </div>
+          <div className="my-2 text-gray-900">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://www.taiki.ai/"
+            >
+              Taiki
+            </a>{" "}
+            - API for tax forms (2024)
+          </div>
+          <div className="my-2 text-gray-900">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://www.trymoab.com/"
+            >
+              Moab
+            </a>{" "}
+            - equipment dealer and renter software (2024)
+          </div>
           <p className="text-sm text-gray-600 italic mt-4">
             My favorite part of being in the technology industry is meeting so
             many smart and ambitious people. I've been lucky enough to invest in
