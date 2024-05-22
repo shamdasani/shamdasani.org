@@ -21,7 +21,7 @@ const Projects = () => {
             <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
-              href="https://getcobblestone.com/"
+              href="https://shade.inc/"
             >
               Shade
             </a>{" "}
