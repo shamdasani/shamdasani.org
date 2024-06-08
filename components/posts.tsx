@@ -4,9 +4,10 @@ import DateFormatter from "./date-formatter";
 
 type Props = {
   posts: Post[];
+  preview: boolean;
 };
 
-const Posts = ({ posts }: Props) => {
+const Posts = ({ posts, preview }: Props) => {
   return (
     <section className="mt-2">
       {posts

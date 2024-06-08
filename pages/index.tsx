@@ -26,8 +26,8 @@ const Index = ({ allPosts }: Props) => {
         <Container>
           <Intro />
           <div className="mb-6">
-            <h1 className="text-4xl font-bold text-gray-900 tracking-tight">
-              Hello, I'm Samay.
+            <h1 className="text-xl font-bold text-gray-900 tracking-tight">
+              Samay Shamdasani
             </h1>
 
             <div>
@@ -43,80 +43,30 @@ const Index = ({ allPosts }: Props) => {
                 .{" "}
               </p>
               <p className="text-lg text-gray-800 my-2">
-                In the past, I have spent my time building{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="https://v1michigan.com"
-                >
-                  V1
-                </a>
-                , the community for ambitious student builders at the University
-                of Michigan, and&nbsp;
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="https://enlight.nyc"
-                >
-                  Enlight
-                </a>
-                , the network to learn to code by building projects.{" "}
-              </p>
-              {/* <p className="text-lg text-gray-800 my-2">
-                My interest in technology goes back to middle school where I
-                used to create video reviews on{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="https://youtube.com/samayshamdasani"
-                >
-                  YouTube
-                </a>
-                . Soon after, I found myself learning to code and creating apps
-                and websites for fun. This led to me building a handful of{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="/projects"
-                >
-                  {" "}
-                  side-projects
-                </a>
-                .
-              </p>
-              <p className="text-lg text-gray-800 my-2">
-                Previously, I've interned at{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="https://datacamp.com"
-                >
-                  DataCamp,
-                </a>{" "}
-                working on engineering efforts focused on conversion and
-                platform growth. I also started{" "}
-                <a
-                  target="_blank"
-                  className="underline hover:opacity-75"
-                  href="https://2019.makespp.com"
-                >
-                  MakeSPP
-                </a>
-                , NJ's largest HS hackathon. In 2018, I was an Apple WWDC
-                scholar.
-              </p> */}
-              <p className="text-lg text-gray-800 my-2">
                 I am incredibly impact-driven and passionate about building for
                 a better tomorrow.
               </p>
               <p className="text-md text-gray-600 mt-2">
-                samayshamdasani [at] gmail [dot] com
+                You can reach me at samayshamdasani [at] gmail [dot] com. I'm
+                also active on{" "}
+                <a
+                  target="_blank"
+                  className="underline hover:opacity-75"
+                  href="https://twitter.com/samaysham"
+                >
+                  Twitter
+                </a>{" "}
+                and{" "}
+                <a
+                  target="_blank"
+                  className="underline hover:opacity-75"
+                  href="https://linkedin.com/in/samayshamdasani"
+                >
+                  LinkedIn
+                </a>
+                .
               </p>
-              ——
-              <h1 className="text-2xl font-bold text-gray-900 tracking-tight my-6">
-                Writing
-              </h1>
-              {allPosts.length > 0 && <Posts posts={allPosts} />}
+              <p className="text-md text-gray-600 mt-2"></p>
             </div>
           </div>
         </Container>
