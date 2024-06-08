@@ -27,12 +27,12 @@ const Index = ({ allPosts }: Props) => {
           <Intro />
           <div className="mb-6">
             <h1 className="text-xl font-bold text-gray-900 tracking-tight">
-              Samay Shamdasani
+              Hello, I'm Samay.
             </h1>
 
             <div>
-              <p className="text-lg text-gray-800 mt-4 mb-2">
-                I'm a software engineer at{" "}
+              <p className="text-lg text-gray-800 my-2">
+                I am currently a software engineer at{" "}
                 <a
                   target="_blank"
                   className="underline hover:opacity-75"
@@ -40,11 +40,23 @@ const Index = ({ allPosts }: Props) => {
                 >
                   Ramp
                 </a>
-                .{" "}
+                .
               </p>
               <p className="text-lg text-gray-800 my-2">
-                I am incredibly impact-driven and passionate about building for
-                a better tomorrow.
+                I spend time{" "}
+                <a className="underline hover:opacity-75" href="/writing">
+                  writing
+                </a>{" "}
+                about what I'm learning, building side{" "}
+                <a className="underline hover:opacity-75" href="/projects">
+                  projects
+                </a>
+                , and{" "}
+                <a className="underline hover:opacity-75" href="/investments">
+                  investing
+                </a>{" "}
+                in startups. I am incredibly impact-driven and passionate about
+                building for a better tomorrow.
               </p>
               <p className="text-md text-gray-600 mt-2">
                 You can reach me at samayshamdasani [at] gmail [dot] com. I'm
