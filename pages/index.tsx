@@ -44,14 +44,10 @@ const Index = ({ allPosts }: Props) => {
               </p>
               <p className="text-lg text-gray-800 my-2">
                 I spend time{" "}
-                <a className="underline hover:opacity-75" href="/writing">
-                  writing
-                </a>{" "}
-                about what I'm learning, building side{" "}
                 <a className="underline hover:opacity-75" href="/projects">
-                  projects
-                </a>
-                , and{" "}
+                  building
+                </a>{" "}
+                side projects and{" "}
                 <a className="underline hover:opacity-75" href="/investments">
                   investing
                 </a>{" "}
