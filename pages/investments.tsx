@@ -107,6 +107,16 @@ const Projects = () => {
             </a>{" "}
             - equipment dealer and renter software (2024)
           </div>
+          <div className="my-2 text-gray-900">
+            <a
+              target="_blank"
+              className="underline hover:opacity-75 text-xl"
+              href="https://www.unifygtm.com/"
+            >
+              Unify
+            </a>{" "}
+            - warm outbound platform (2024)
+          </div>
           <p className="text-sm text-gray-600 italic mt-4">
             My favorite part of being in the technology industry is meeting so
             many smart and ambitious people. I've been lucky enough to invest in
