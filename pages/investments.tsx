@@ -121,7 +121,7 @@ const Projects = () => {
             <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
-              href="https://www.unifygtm.com/"
+              href="https://www.revin.ai/"
             >
               Revin
             </a>{" "}
@@ -131,7 +131,7 @@ const Projects = () => {
             <a
               target="_blank"
               className="underline hover:opacity-75 text-xl"
-              href="https://www.unifygtm.com/"
+              href="https://www.endeavor.ai/"
             >
               Endeavor
             </a>{" "}
