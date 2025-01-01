@@ -5,9 +5,10 @@ type Props = {
   description: string;
   date: string;
   category: string;
+  cover?: string;
 };
 
-const PostHeader = ({ title, description, date, category }: Props) => {
+const PostHeader = ({ title, description, date, category, cover }: Props) => {
   return (
     <>
       <div className="mx-auto">
@@ -19,12 +20,10 @@ const PostHeader = ({ title, description, date, category }: Props) => {
         </h2>
         <div className="mb-6 text-lg flex">
           <div className="flex-1">
-            <DateFormatter dateString={date} /> 
+            <DateFormatter dateString={date} />
           </div>
-
-          {/* <p className="flex-1"> {category}</p> */}
-          {/* <p>3 min read</p> */}
         </div>
+        {cover && <img src={cover} alt={title} className="w-full mb-8" />}
       </div>
     </>
   );

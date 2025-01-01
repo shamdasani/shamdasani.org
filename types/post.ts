@@ -8,6 +8,7 @@ type PostType = {
   content: string;
   description: string;
   category: string;
+  cover?: string;
 };
 
 export default PostType;
