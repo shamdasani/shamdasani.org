@@ -77,7 +77,7 @@ The rest of summer '24 was great. Some quick highlights:
 - [Ran](https://www.strava.com/activities/11528861170) the JPMorgan 5K in Central Park (3.67mi, 6:49 pace)[^7]
 - Attended the India vs. Ireland cricket match in LI. Cool to see cricket expanding into the US.
 - Spontaneously flew out to California to attend a retreat hosted by my friend [Jordan](https://www.jordangonen.com/)[^8].
-- Started and launched a software side-project with a friend for fun to get back into building the 0→1 muscle. Ended up growing revenue decently fast and it proved to be a great training ground for learning sales and GTM.
+- Started and launched a software side-project with a close friend for fun to get back into building the 0→1 muscle. We ended up growing revenue decently fast and it proved to be a great training ground for learning sales and GTM.
 - At the end of the month, my family and I dropped off my sister Nesa to college at Michigan—go blue!
 
 ![michigan](/assets/blog/2024-review/michigan.png)
