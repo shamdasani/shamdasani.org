@@ -92,7 +92,7 @@ SF was great. I got a sublease in North Beach for 2 months.
 
 Most importantly, I learned more about what some of the smartest people in the world are working on. Thanks to everyone (Varun, Aryan, Jack, Ishaan, Yash, Molly, Nathan, Aditya, Alex, Atreya, and so many more...) who made my time in SF so great.
 
-I ended the year over a short vacation with family in the Bahamas, where I went snorkeling for the first time!
+I ended the year over a short vacation with family in the Bahamas, where I went snorkeling for the first time.
 
 ---
 
