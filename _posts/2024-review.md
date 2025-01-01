@@ -19,7 +19,7 @@ Some years you win, some years you build character[^2]. This year, I’m thankfu
 
 I rang in 2024 with family in Montreal, Canada. Beautiful city.
 
-A few weeks later, I went on a ski trip to Kilington, VT with a few friends. It was brutally cold. But lots of fun.
+A few weeks later, I went on a ski trip to Kilington, VT with a Kalman, Rohit, Sam, and Ilan. It was brutally cold. But lots of fun.
 
 ![ski](/assets/blog/2024-review/ski.png)
 
@@ -78,7 +78,7 @@ The rest of summer '24 was great. Some quick highlights:
 - Attended the India vs. Ireland cricket match in LI. Cool to see cricket expanding into the US.
 - Spontaneously flew out to California to attend a retreat hosted by my friend [Jordan](https://www.jordangonen.com/)[^8].
 - Started and launched a software side-project with a friend for fun to get back into building the 0→1 muscle. Ended up growing revenue decently fast and it proved to be a great training ground for learning sales and GTM.
-- At the end of the month, my family and I dropped off my sister to college at Michigan—go blue!
+- At the end of the month, my family and I dropped off my sister Nesa to college at Michigan—go blue!
 
 ![michigan](/assets/blog/2024-review/michigan.png)
 
