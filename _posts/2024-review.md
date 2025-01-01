@@ -29,9 +29,9 @@ Some more Q1/Q2 highlights: hiking trips to upstate NY, traveled to Miami for my
 
 Around this time, I was promoted and became a staff engineer and manager at Ramp.
 
-I primarily lead our core spend product: cards, policies, spending limits, expense intelligence, and more. I’m extremely thankful to work with such a talented and strong team.
+I currently lead our core spend product: cards, policies, spending limits, expense intelligence, and more. I’m extremely thankful to work with such a talented and strong team.
 
-In 2024, my team and I shipped [shared spending limits](https://support.ramp.com/hc/en-us/articles/27036901009043-Shared-limits-for-tracking-group-spend), [several core experience revamps](https://ramp.com/blog/simpler-more-efficient-expenses), and helped scale our core revenue-generating product to more [customers](https://ramp.com/2024) than ever before.
+In 2024, we shipped [shared spending limits](https://support.ramp.com/hc/en-us/articles/27036901009043-Shared-limits-for-tracking-group-spend), [several core experience revamps](https://ramp.com/blog/simpler-more-efficient-expenses), and helped scale our core revenue-generating product to more [customers](https://ramp.com/2024) than ever before.
 
 ![shared limits](/assets/blog/2024-review/shared-limits.png)
 
@@ -41,7 +41,7 @@ Ramp continues to grow very fast. Ramp friends: if you're reading this, thank yo
 
 Outside of work, I continued to make a handful of angel [investments](https://shamdasani.org/investments). I love supporting friends working on ambitious problems.
 
-Another thing I started doing more seriously this year is helping friends think through career decisions. I've referred many folks to their current roles over the past year.[^3] This has been very fulfilling.
+In addition to investing, another thing I started doing more seriously this year is helping friends think through career decisions. Over the past year, I've referred many folks to their current roles.[^3] It feels so good to receive messages like the below.
 
 ![referrals](/assets/blog/2024-review/referrals.png)
 
@@ -55,7 +55,7 @@ I never understood the phrase “China is the world’s factory” until that tr
 
 My trip to China probably deserves a post of its own, but here are some highlights:
 
-- Ate lots of delicious food (roast duck, dim sum, fresh seafood)
+- Ate lots of delicious food (roast duck, dim sum, fresh seafood, and more...)
 - Explored a large part of Guangzhou[^4] by foot (wet markets, street food, shops, etc.) and got a feel for the culture
 - Got extorted[^5] by a driver posing as the Uber I ordered in Shanghai
 - Visited the [AirWallex](https://www.airwallex.com/us)[^6] office (thanks [Yuhan](https://www.linkedin.com/in/wang-yuhan)!)
@@ -84,15 +84,15 @@ The rest of summer '24 was great. Some quick highlights:
 
 ---
 
-In September, I decided that I wanted a change and ended up leaving NYC to spend time in San Francisco till the end of the year. Shout out to everyone who came out to the "going-away" dinner in NYC. That was a fun night.
+In September, I decided that I wanted a change and ended up leaving NYC to spend time in San Francisco till the end of the year. Shout out to everyone who came out to the informal "going-away" dinner in NYC. That was a fun night.
 
-SF was great. I got a sublease in North Beach for 2 months. I spent a lot of time with friends (old and new).
+SF was great. I got a sublease in North Beach for 2 months.
 
 ![cali](/assets/blog/2024-review/cali.png)
 
-And most importantly, I learned more about what some of the smartest people in the world are working on. Thanks to everyone (Varun, Aryan, Jack, Ishaan, Yash, Molly, Nathan, Aditya, Alex, Atreya, and so many more...) who made my time in SF so great.
+Most importantly, I learned more about what some of the smartest people in the world are working on. Thanks to everyone (Varun, Aryan, Jack, Ishaan, Yash, Molly, Nathan, Aditya, Alex, Atreya, and so many more...) who made my time in SF so great.
 
-I ended the year over a short vacation with family in the Bahamas (went snorkeling for the first time!) and Florida.
+I ended the year over a short vacation with family in the Bahamas, where I went snorkeling for the first time!
 
 ---
 
@@ -120,7 +120,7 @@ Here's to the next!
 
 <sub>_If we haven’t met yet—or we haven’t caught up in a while—please reach out! I'd love to chat._</sub>
 
-[^1]: [1] While I do spend a lot of time writing privately, this is usually the one time a year I decide to publish something. I plan to change that starting in 2025 by publishing more here. Hold me accountable!
+[^1]: [1] While I do spend a lot of time writing privately, this is usually the one time a year I decide to publish something. I plan to change that starting in 2025 by publishing more of my writing here. Hold me accountable!
 [^2]: [2] Steve Jobs famously said a variant of this quote. I think this is a good way to think about the past year. I came into 2024 expecting it to be an absolute breakout year in terms of some of my personal goals - but I was reminded that good things take time!
 [^3]: [3] If I can be helpful, please reach out!
 [^4]: [4] I was very impressed by Guangzhou as a city. People are generally happy and economically prosperous. More so than Shanghai. Very clear that there has been a lot of wealth created and/or concentrated in Guangzhou given its importance to global trade and commerce.
