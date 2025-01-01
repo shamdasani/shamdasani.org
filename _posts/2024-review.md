@@ -31,7 +31,7 @@ Around this time, I was promoted and became a staff engineer and manager at Ramp
 
 I currently lead our core spend product: cards, policies, spending limits, expense intelligence, and more. I’m extremely thankful to work with such a talented and strong team.
 
-In 2024, we shipped [shared spending limits](https://support.ramp.com/hc/en-us/articles/27036901009043-Shared-limits-for-tracking-group-spend), [several core experience revamps](https://ramp.com/blog/simpler-more-efficient-expenses), and helped scale our core revenue-generating product to more [customers](https://ramp.com/2024) than ever before.
+In 2024, we shipped [shared spending limits](https://support.ramp.com/hc/en-us/articles/27036901009043-Shared-limits-for-tracking-group-spend), [several product feature revamps](https://ramp.com/blog/simpler-more-efficient-expenses), and helped scale our core revenue-generating product to more [customers](https://ramp.com/2024) than ever before.
 
 ![shared limits](/assets/blog/2024-review/shared-limits.png)
 
